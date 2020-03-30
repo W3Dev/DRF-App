@@ -1,0 +1,3 @@
+; cd your project’s directory and activate its virtualenv
+$ ./manage.py startapp employeeapi
+$ pip install djangorestframework
