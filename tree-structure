@@ -1,0 +1,22 @@
+restfulapicrud
+|
+|_ employeeapi (similar to myapp)
+|           |_ __init__.py
+|           |_ admin.py
+|           |_ apps.py
+|           |_ models.py
+|           |_ serializers.py
+|           |_ tests.py
+|           |_ views.py
+|           |_ viewsets.py
+|
+|
+|_ restfulapicrud
+|       |_ __init__.py
+|       |_ asgi.py
+|       |_ router.py
+|       |_ settings.py
+|       |_ urls.py
+|       |_ wsgi.py
+|
+|_ manage.py
